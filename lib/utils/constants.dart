@@ -1,5 +1,5 @@
 class Constants {
-  static const API_KEY = '9992da085b5442adadd8c2e5bf3ac06d';
+  static const API_KEY = 'API-KEY';
 
   static const String TOP_HEADER_LINES_URL =
       'https://newsapi.org/v2/top-headlines?country=us&apiKey=$API_KEY';
